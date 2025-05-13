@@ -60,3 +60,7 @@ Education: This app can be used as a learning tool for students to understand ho
 Conclusion:
 The task provided an excellent opportunity for me to apply key web development technologies and concepts, including API integration, dynamic DOM manipulation, interactive mapping, and responsive design. By using OpenWeatherMap and Leaflet.js, I was able to create a functional and visually appealing weather application. The project highlighted the importance of using modern web tools such as VS Code for efficient development and browser developer tools for testing and debugging. The weather app is practical, interactive, and can be further expanded with more features such as hourly forecasts, personalized settings, or integration with additional APIs for more weather-related services.
 By using VS Code as my development environment, I leveraged its powerful features for an optimized and smooth coding experience. The combination of these tools allowed for a seamless development process, resulting in a highly functional, user-friendly weather application.
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/52896296-c4a4-43a0-a6bf-4f84b7547c90)
